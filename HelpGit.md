@@ -25,3 +25,9 @@ git log
 git log --oneline
 ```
 
+## Команда переключение между версиями:
+```sh
+git checkout
+```
+
+End
