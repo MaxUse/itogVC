@@ -27,7 +27,7 @@ git log --oneline
 
 ## Команда переключение между версиями:
 ```sh
-git checkout
+git checkout имя ветки
 ```
 
 End
